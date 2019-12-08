@@ -1,0 +1,37 @@
+html, td.sinfondo{
+    background-color: peachpuff;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(97, 37, 3);
+}
+
+main, span.marron, ul.marron {
+    color: brown;
+}
+
+p.menu {
+    float: left;
+}
+
+p.centrado {
+    text-align: center;
+}
+
+p.mail {
+    float: right;
+}
+
+br {
+    clear: both;
+}
+
+ol.negro, ul.negro, h2.negro, details {
+    color: black;
+}
+
+col.fondotabla {
+    background-color: cornsilk;
+}
+
